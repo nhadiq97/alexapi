@@ -2,7 +2,7 @@
 
 <details> 
   <summary>
-  ### Step 1 - Setting up the pi ###
+   Step 1 - Setting up the pi 
   </summary>
     
   1) Copy the contents of the setup folder onto your desktop <br />
