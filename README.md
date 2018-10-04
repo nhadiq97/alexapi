@@ -9,11 +9,12 @@
   4) insert the sd card into the raspberry pi <br />
   5) Poweron the rpi <br />
   </details>
-  
-### Step 2 - Registering the project on AVS ###
 
+<details>
+  <summary>Step 2 - Registering the project on AVS</summary>
+  <br />
   1)Create an amazon developers account at developer.amazon.com.
-
+  </details>
 
 
 
