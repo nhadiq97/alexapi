@@ -13,9 +13,9 @@
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
   <br />
-  1) Create an amazon developers account at  https://developer.amazon.com
-  2) Click the ALEXA VOICE SERVICE button
-  3) Click the GET STARTED button, then click the CREATE PRODUCT button.
+  1) Create an amazon developers account at  https://developer.amazon.com <br />
+  2) Click the ALEXA VOICE SERVICE button <br />
+  3) Click the GET STARTED button, then click the CREATE PRODUCT button. <br />
   </details>
 
 
