@@ -10,7 +10,7 @@
   5) Poweron the rpi <br />
   </details>
   
-  <br /><br />
+  <br />
 
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
