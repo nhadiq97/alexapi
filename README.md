@@ -1,10 +1,7 @@
 ## AlexaPi : Alexa on RaspberriPi ##
 
-<details> 
-  <summary>
-   Step 1 - Setting up the pi 
-  </summary>
-    
+## Step 1 - Setting up the pi ##
+<details>   
   1) Copy the contents of the setup folder onto your desktop <br />
   2) Install etcher into your pc <br />
   3) Burn Raspian.img to the given sd card using etcher <br />
