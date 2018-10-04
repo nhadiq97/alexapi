@@ -17,15 +17,15 @@
    2) Click the ALEXA VOICE SERVICE button <br />
    3) Click the GET STARTED button, then click the CREATE PRODUCT button. <br />
    4) Fill in Product Information</br>
-        &nbsp;&nbsp;&nbsp;&nbsp; 4.1) Product Name: Use AVS Tutorials Project. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.2) Product ID: Use PrototypePi. No spaces are allowed for the Product ID field. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.3) Select Alexa-Enabled Device for Please Select Your Product Type. Select No for Will your device use a companion app? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.4) Choose Other for Product Category and write Prototype in the (please specify) and Brief product description field. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.5) Select Hands-free for How will users interact with your product? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.6) Skip the Upload an image step. This is not required for prototyping. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.7) Select No for Do you intend to distribute this product commercially? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.8) Select No for Is this a children’s product or is it otherwise directed to children younger than 13 years old? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;4.9) Click NEXT to continue. <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1) Product Name: Use AVS Tutorials Project. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2) Product ID: Use PrototypePi. No spaces are allowed for the Product ID field. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3) Select Alexa-Enabled Device for Please Select Your Product Type. Select No for Will your device use a companion app? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4) Choose Other for Product Category and write Prototype in the (please specify) and Brief product description field. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5) Select Hands-free for How will users interact with your product? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.6) Skip the Upload an image step. This is not required for prototyping. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.7) Select No for Do you intend to distribute this product commercially? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8) Select No for Is this a children’s product or is it otherwise directed to children younger than 13 years old? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.9) Click NEXT to continue. <br />
 
   </details>
 
