@@ -15,7 +15,7 @@
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
   <br />
-  1)Create an amazon developers account at  https://developer.amazon.com
+  1) Create an amazon developers account at  https://developer.amazon.com
   </details>
 
 
