@@ -15,7 +15,7 @@
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
   <br />
-  1)Create an amazon developers account at developer.amazon.com.
+  1)Create an amazon developers account at  [developer.amazon.com.](https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fdeveloper.amazon.com%2Fap_login.html&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=mas_dev_portal&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_developer_portal&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&language=en_US&openid.pape.max_auth_age=1)developer.amazon.com.)
   </details>
 
 
