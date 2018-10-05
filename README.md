@@ -39,9 +39,9 @@
   <summary>Step 3 - Installing Alexa into the RaspberryPi</summary>
   1)Navigate to home/pi directory<br />
   2)Download the AVS Device SDK by entering the following commands in the terminal<br />
-        wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
-        wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt<br />
-        wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br />
     </details>
 <br /><br /><br /><br />
 full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
