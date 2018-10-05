@@ -13,9 +13,9 @@
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
   <br />
-   1) Create an amazon developers account at  https://developer.amazon.com <br />
-   2) Click the ALEXA VOICE SERVICE button <br />
-   3) Click the GET STARTED button, then click the CREATE PRODUCT button. <br />
+   1) Create an amazon developers account at  https://developer.amazon.com <br /><br />
+   2) Click the ALEXA VOICE SERVICE button <br /><br />
+   3) Click the GET STARTED button, then click the CREATE PRODUCT button. <br /><br />
    4) Fill in Product Information<br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1) Product Name: Use AVS Tutorials Project. <br />
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2) Product ID: Use PrototypePi. No spaces are allowed for the Product ID field. <br />
