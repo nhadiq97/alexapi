@@ -18,14 +18,14 @@
    3) Click the GET STARTED button, then click the CREATE PRODUCT button. <br /><br />
    4) Fill in Product Information<br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1) Product Name: Input your product name <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2) Product ID: Use the same product name as above. No spaces are allowed for the Product ID field. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3) Select Alexa-Enabled Device for Please Select Your Product Type. Select No for Will your device use a companion app? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4) Choose Other for Product Category. <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5) Select Hands-free for How will users interact with your product? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.6) Skip the Upload an image step.<br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.7) Select No for Do you intend to distribute this product commercially? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8) Select No for Is this a children’s product or is it otherwise directed to children younger than 13 years old? <br />
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.9) Click NEXT to continue. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2) Product ID: Use the same product name as above. No spaces are allowed for the Product ID<br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3) Select Alexa-Enabled Device for Please Select Your Product Type. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4)Select No for Will your device use a companion app? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5) Choose Other for Product Category. <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.6) Select Hands-free for How will users interact with your product? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.7) Skip the Upload an image step.<br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8) Select No for Do you intend to distribute this product commercially? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.9) Select No for Is this a children’s product or is it otherwise directed to children younger than 13 years old? <br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.10) Click NEXT to continue. <br />
 
   </details>
 
