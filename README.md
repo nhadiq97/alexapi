@@ -33,9 +33,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4)Select Other devices and platforms<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.5)Write a name for your Client ID <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6)Click "Generate ID". You should get a Client ID and an option to copy it to clipboard.
-  
   </details>
-  <br /><br />
+  <br /><BR />
   <details>
   <summary>Step 3 - Installing Alexa into the RaspberryPi</summary>
     </details>
