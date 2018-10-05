@@ -35,6 +35,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6)Click "Generate ID". You should get a Client ID and an option to copy it to clipboard.
   
   </details>
+  <br /><br />
+  <details>
+  <summary>Step 3 - Installing Alexa into the RaspberryPi</summary>
+    </details>
 <br /><br /><br /><br />
 full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
 
