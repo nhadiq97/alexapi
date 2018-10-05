@@ -36,5 +36,6 @@
   
   </details>
 
+full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
 
 
