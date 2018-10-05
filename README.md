@@ -34,14 +34,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.5)Write a name for your Client ID <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6)Click "Generate ID". You should get a Client ID and an option to copy it to clipboard.
   </details>
-  <br /><BR />
+  <br /><br />
   <details>
-  <summary>Step 3 - Installing Alexa into the RaspberryPi</summary>
-  1)Navigate to home/pi directory<br />
-  2)Download the AVS Device SDK by entering the following commands in the terminal<br />
+  <summary>Step 3 - Installing Alexa into the RaspberryPi</summary><br /><br />
+  1)Navigate to home/pi directory<br /><br />
+  2)Download the AVS Device SDK by entering the following commands in the terminal<br /><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br /><br />
+  3)open config.txt and input your credentials generated during the setup of avs <br />
     </details>
 <br /><br /><br /><br />
 full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
