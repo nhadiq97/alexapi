@@ -42,8 +42,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br /><br />
-  3)open config.txt and input your credentials generated during the setup of avs <br />
+  3)open config.txt and input your credentials generated during the setup of avs <br /><br />
+  4)Build the AVS Device SDK by entering the following commands in the terminal
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd /home/pi/<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo bash setup.sh config.txt<br /><br />
+  
     </details>
+  
 <br /><br /><br /><br />
 full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
 
