@@ -1,5 +1,9 @@
 ## AlexaPi : Alexa on RaspberriPi ##
 
+``` 
+  arecord -D plughw:1,0 -d 3 test.wav 
+ ```
+  
 <details>
   <summary>Step 1 - Setting up the pi</summary>
   <br />
@@ -41,7 +45,8 @@
   2)Record a soundwave by typing the command  
   ``` 
   arecord -D plughw:1,0 -d 3 test.wav 
-  ``` <br /><br />
+  ```
+  <br /><br />
   2)Play the wave file by typing the command "aplay test.wav" <br /><br />
   <br /><br />
   </details>
