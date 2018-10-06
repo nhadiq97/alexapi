@@ -39,8 +39,7 @@
   <br /><br />
   <details>
   <summary>Step 3- Setting up the microphone</summary>
-  
-  <br /><br />
+  <br />
   1)Open alsa mixer and increase the gain of capture device and playback device using the command
  ```
  alsamixer
@@ -54,9 +53,9 @@
   aplay test.wav
   ```
   </details>
-  
+  <br />
   <details>
-  <summary>Step 4 - Installing Alexa into the RaspberryPi</summary><br /><br />
+  <summary>Step 4 - Installing Alexa into the RaspberryPi</summary><br />
   
   1)Navigate to home/pi directory<br /><br />
   2)Download the AVS Device SDK by entering the following commands in the terminal<br /><br />
