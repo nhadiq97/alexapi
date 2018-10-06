@@ -39,9 +39,9 @@
   </details>
   <br /><br />
   <details>
-  <summary>Step 3- Setting up the microphone</summary>
+  <summary>Step 3- Setting up the microphone</summary><br />
   
-  <br />
+  
   1)Open alsa mixer and increase the gain of capture device and playback device using the command
  ~~~
  alsamixer
