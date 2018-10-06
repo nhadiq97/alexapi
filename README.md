@@ -1,8 +1,6 @@
 ## AlexaPi : Alexa on RaspberriPi ##
 
-``` 
-  arecord -D plughw:1,0 -d 3 test.wav 
- ```
+
   
 <details>
   <summary>Step 1 - Setting up the pi</summary>
@@ -43,9 +41,9 @@
   <summary>Step 3- Setting up the microphone</summary><br /><br />
   1)Open alsa mixer and increase the gain of capture device and playback device<br /><br />
   2)Record a soundwave by typing the command  
-  ``` 
+``` 
   arecord -D plughw:1,0 -d 3 test.wav 
-  ```
+ ```
   <br /><br />
   2)Play the wave file by typing the command "aplay test.wav" <br /><br />
   <br /><br />
