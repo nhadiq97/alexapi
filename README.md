@@ -64,10 +64,12 @@
   ```
   3)open config.txt and input your credentials generated during the setup of avs <br /><br />
   4)Build the AVS Device SDK by entering the following commands in the terminal
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd /home/pi/<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo bash setup.sh config.txt<br /><br />
+ ~~~
+  cd /home/pi/
+  sudo bash setup.sh config.txt
+ ~~~
   
-    </details>
+ </details>
   
 <br /><br /><br /><br />
 full tutorial is available on : (https://developer.amazon.com/docs/alexa-voice-service/register-a-product.html)
