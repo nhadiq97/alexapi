@@ -43,17 +43,17 @@
   
   <br />
   1)Open alsa mixer and increase the gain of capture device and playback device using the command
- ```
+ ~~~
  alsamixer
- ```
+ ~~~
   2)Record a soundwave by typing the command  
-``` 
+~~~
   arecord -D plughw:1,0 -d 3 test.wav 
- ```
+ ~~~
   2)Play the wave file by typing the command 
-  ``` 
+  ~~~ 
   aplay test.wav
-  ```
+  ~~~
   </details>
   <br />
   <details>
@@ -61,9 +61,9 @@
   
   1)Navigate to home/pi directory<br /><br />
   2)Download the AVS Device SDK by entering the following commands in the terminal<br /><br />
-  ```
+  ~~~
   wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh&&wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt&&wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh
-  ```
+  ~~~
   3)open config.txt and input your credentials generated during the setup of avs <br /><br />
   4)Build the AVS Device SDK by entering the following commands in the terminal
  ~~~
