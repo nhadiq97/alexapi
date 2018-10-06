@@ -14,6 +14,7 @@
   <br />
 <details>
   <summary>Step 2 - Registering the project on AVS</summary>
+  
   <br />
    1) Create an amazon developers account at  https://developer.amazon.com <br /><br />
    2) Click the ALEXA VOICE SERVICE button <br /><br />
@@ -40,6 +41,7 @@
   <details>
   
   <summary>Step 3- Setting up the microphone</summary>
+  
   <br />
   1)Open alsa mixer and increase the gain of capture device and playback device using the command
  ```
