@@ -53,16 +53,15 @@
   ``` 
   aplay test.wav
   ```
-  <br /><br />
   </details>
   
   <details>
   <summary>Step 4 - Installing Alexa into the RaspberryPi</summary><br /><br />
   1)Navigate to home/pi directory<br /><br />
   2)Download the AVS Device SDK by entering the following commands in the terminal<br /><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh<br /><br />
+  ```
+ wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh&&wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/config.txt&&wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/pi.sh
+  ```
   3)open config.txt and input your credentials generated during the setup of avs <br /><br />
   4)Build the AVS Device SDK by entering the following commands in the terminal
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cd /home/pi/<br />
