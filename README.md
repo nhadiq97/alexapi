@@ -38,7 +38,9 @@
   </details>
   <br /><br />
   <details>
-  <summary>Step 3- Setting up the microphone</summary><br /><br />
+  <summary>Step 3- Setting up the microphone</summary>
+  
+  <br /><br />
   1)Open alsa mixer and increase the gain of capture device and playback device<br /><br />
   2)Record a soundwave by typing the command  
 ``` 
