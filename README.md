@@ -69,8 +69,11 @@
  ~~~
   cd /home/pi/
   sudo bash setup.sh config.txt
- ~~~
   
+  
+  sudo bash startsample.sh
+ ~~~
+   
  </details>
   
 <br /><br /><br /><br />
