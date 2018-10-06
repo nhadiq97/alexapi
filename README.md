@@ -39,7 +39,6 @@
   </details>
   <br /><br />
   <details>
-  
   <summary>Step 3- Setting up the microphone</summary>
   
   <br />
