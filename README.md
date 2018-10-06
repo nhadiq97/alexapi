@@ -36,7 +36,15 @@
   </details>
   <br /><br />
   <details>
-  <summary>Step 3 - Installing Alexa into the RaspberryPi</summary><br /><br />
+  <summary>Step 3- Setting up the microphone</summary><br /><br />
+  1)Open alsa mixer and increase the gain of capture device and playback device<br /><br />
+  2)Record a soundwave by typing the command ```arecord -D plughw:1,0 -d 3 test.wav``` <br /><br />
+  2)Play the wave file by typing the command "aplay test.wav" <br /><br />
+  <br /><br />
+  <details>
+  
+  <details>
+  <summary>Step 4 - Installing Alexa into the RaspberryPi</summary><br /><br />
   1)Navigate to home/pi directory<br /><br />
   2)Download the AVS Device SDK by entering the following commands in the terminal<br /><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh<br />
